@@ -19,11 +19,11 @@ export const profile = {
   headline: "Software engineer building products people rely on.",
   intro:
     "I design and ship web products end to end, from high-traffic consumer travel platforms to focused SaaS tools that help founders grow revenue.",
-  email: "you@example.com", // TODO: replace with your email
+  email: "ralstonalmeida@gmail.com",
   available: true,
   links: [
-    { label: "GitHub", href: "https://github.com/" }, // TODO
-    { label: "LinkedIn", href: "https://www.linkedin.com/" }, // TODO
+    { label: "GitHub", href: "https://github.com/ralstonJ" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/ralston-almeida-3064453a/" },
   ],
 };
 
